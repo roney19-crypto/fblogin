@@ -1,0 +1,61 @@
+body{
+    background-color: whitesmoke;
+}
+.main{
+    
+}
+.left_part{
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 570px;
+}
+.left_part img{
+    margin-top: 100px;
+    margin-left: -27px;
+    width: 300px;
+}
+.left_part p{
+    font-size: 20px;
+    margin-top: 4px;
+    margin-left: -28px;
+}
+.right_part{
+    float: right;
+    margin-right: 200px;
+    margin-top: -235px;
+    border: 1px solid silver;
+    border-radius: 7px;
+    box-shadow: silver;
+}
+.right_part input{
+    width: 350px;
+    height: 55px;
+    margin: 6px 10px;
+    border-radius: 8px;
+    border-width: 1px;
+    box-shadow: silver;
+}
+.right_part button{
+    width: 350px;
+    height: 50px;
+    margin: 14px 10px;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    background: rgb(63, 108, 255);
+    border-radius: 40px;}
+.create button{
+    width: 215px;
+    height: 50px;
+    color: white;
+    background-color: rgb(19, 163, 0);
+    border-radius: 10px;
+    font-size: 20px;
+    border-width: 1px;
+    margin-left: 74px;
+.right_part button:hover{
+    background-color: rgb(1, 1, 253);
+}
+.create button:hover{
+    background-color: rgb(45, 255, 45);
+}
